@@ -10,8 +10,8 @@ A Hypixel Skyblock mod that automates the **Simon Says** puzzle, so you don't ha
 
 ## Installation
 1. Download the latest release from the [Releases](https://github.com/eatingplastic/simonshutup/releases) page.
-2. Place the `.jar` file into your Minecraft `mods` folder.
-3. Launch Minecraft with Forge or Fabric (depending on your version).
+2. extract it from the `.zip` file and place it into your Minecraft `config/chattriggers/modules` folder.
+3. Launch Minecraft with chattriggers and run /ct load.
 4. Enjoy stress-free **Simon Says** puzzles!
 
 ## Usage
@@ -21,7 +21,7 @@ A Hypixel Skyblock mod that automates the **Simon Says** puzzle, so you don't ha
 
 ## Compatibility
 - **Minecraft Version**: 1.8.9 (Optimized for Hypixel Skyblock mods)
-- **Mod Loader**: Forge (Fabric support may be added in the future)
+- **Mod Loader**: chattriggers, forge (Fabric support may be added in the future)
 - **Other Mods**: Should work alongside popular Skyblock mods like NEU, Skytils, and DSM.
 
 ## Disclaimer
